@@ -6,8 +6,8 @@ First of all you require the basic component to use this project .
 Application Required : 1. Arduino IDE
 
 Hardware Required : 
-                    1. Arduino uno 
-                    2. LDR
+1. Arduino uno 
+2. LDR
                     3. LED
                     4. Breadboard
                     5. M to M (Jumper wires)
